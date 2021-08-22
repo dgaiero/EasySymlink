@@ -5,14 +5,14 @@ name = "pypi"
 
 [packages]
 click = "*"
-easysymlink = {editable = true, path = "."}
 pywin32 = "*"
 ntfsutils = "*"
-pyinstaller = {extras = ["encryption"], version = "*"}
-python-dotenv = "*"
+easyjunction = {editable = true, path = "."}
 
 [dev-packages]
 autopep8 = "*"
+pyinstaller = {extras = ["encryption"], version = "*"}
+python-dotenv = "*"
 
 [requires]
 python_version = "3.9"

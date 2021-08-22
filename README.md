@@ -1,1 +1,1 @@
-# EasySymlink
+# EasyJunction
